@@ -4,7 +4,7 @@ var tl = gsap.timeline({scrollTrigger:{
     end: "70% 50%",
     scrub:true,
     // markers:true,gg
-}});
+}}); 
 
 tl.to(".fanta",{
     width:"30%",
